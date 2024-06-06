@@ -5,7 +5,7 @@
 * Curso de Engenharia de Software - UniEVANGÉLICA
 * Disciplina de Programação Web
 * Dev: Thomas NIcholas
-* DATA
+
 
 
 ## :rocket: Sobre o repositório
